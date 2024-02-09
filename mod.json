@@ -1,0 +1,18 @@
+{
+	"geode": "2.0.0-beta.16",
+	"gd": {
+		"win": "2.204"
+	},
+	"version": "v1.0.0",
+	"id": "valelg.volume_editor",
+	"name": "Volume in editor",
+	"developer": "ValeLG",
+	"description": "Add a Volume Slider in the pause of the editor.",
+	"dependencies": [
+        {
+			"id": "geode.node-ids",
+			"version": "v1.2.2",
+			"importance": "required"
+		}
+    ]
+}
